@@ -1,0 +1,26 @@
+
+.b{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: goldenrod;
+}
+.m{
+    width: 280px;
+   margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 3%;
+  border-color: black;
+  
+}
+.cr{
+    border: 500px;
+    border-color: black;
+    
+    border-radius: 7%;
+    box-shadow: 10px 10px black;
+   
+    }
+    /* .attribution{
+        margin-top: 20px;
+    } */
